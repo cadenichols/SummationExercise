@@ -1,7 +1,7 @@
 {
   "name": "prototype",
   "description": "Prototype Application",
-  "homepage": "https://github.com/coding-house-jan2015/prototype",
+  "homepage": "https://github.com/cadenichols/SummationExercise.git",
   "keywords": [
     "gulp",
     "jshint",
@@ -11,7 +11,7 @@
   "author": "Cade Nichols <cade@cadenichols.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/coding-house-jan2015/prototype.git"
+    "url": "git@github.com:cadenichols/SummationExercise.git"
   },
   "version": "1.0.0",
   "scripts": {
